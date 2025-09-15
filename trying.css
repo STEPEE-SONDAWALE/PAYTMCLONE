@@ -1,0 +1,127 @@
+body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f7fa;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .card {
+      background: #fff;
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      max-width: 600px;
+      width: 100%;
+    }
+
+    .card h2 {
+      font-size: 20px;
+      margin-bottom: 20px;
+      background-color: aqua;
+    }
+
+    .options {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 20px;
+      background-color: #00baf2;
+    }
+
+    .option {
+      text-align: center;
+      flex: 1;
+      /* gap: 50px; */
+    }
+
+    .option img {
+      width: 50px;
+      height: 50px;
+      display: block;
+      margin: 0 auto 10px;
+    }
+
+    .option p {
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    .promo {
+      background: #00baf2;
+      color: #fff;
+      padding: 15px;
+      border-radius: 12px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .promo-text {
+      font-size: 14px;
+    }
+
+    .promo strong {
+      font-weight: bold;
+    }
+
+    .btn {
+      padding: 8px 15px;
+      background: #fff;
+      color: #00baf2;
+      border-radius: 25px;
+      border: none;
+      font-size: 13px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .btn:hover {
+      background: #e6f7fc;
+    }
+
+
+
+
+
+
+
+
+
+
+    paytm
+    .icon{
+    height:80% ;
+    width: 100%;
+    /* background-color: aqua; */
+}
+.imgcon{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%; 
+    /* background-color: #4f5f77; */
+    display: flex;
+    align-items: center;
+    margin-top: -3rem;
+    gap: 1rem;
+}
+.icon1:hover,.icon2:hover,.icon3:hover,.icon4:hover{
+     
+    /* background-color: #002970; */
+    border: 4px solid white;
+    border-radius: 1.5rem;
+}
+.icon1,.icon2,.icon3,.icon4{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    height: 70%;
+    width: 20%;
+    /* background-color: aqua; */
+    margin: 0 auto;
+    text-align: center;
+}
+
